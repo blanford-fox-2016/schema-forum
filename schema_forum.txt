@@ -1,1 +1,21 @@
 Copy your URL to screenshot here
+http://imgur.com/a/l3GJE
+
+User upload cerita
+user one to many cerita
+
+User dapat bercomment
+user one to many comments
+
+User dapat mereply comment
+user one to many replies
+
+User dapat vote cerita, comments dan replies
+user one to many votes
+
+Cerita dapat di upvote,
+cerita one to many votes
+
+Cerita dapat di comment
+Cerita one to many comments
+
