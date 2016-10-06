@@ -3,4 +3,4 @@ http://i.imgur.com/a3om8y9.png
 user mempunyai opsi until memvote satu macam cara pada tiap stories. one to optional one.
 user dapat memberi komentar di stories dan dapat mengkomeni komentar lain. one to many.
 vote pads tiap stories akan memiliki perhitungan thumbs up tau thumbs down.
-user datat memiliki banyak stories dan banyak komen
+user datat memiliki banyak stories dan banyak komen.
